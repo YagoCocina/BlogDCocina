@@ -9,6 +9,7 @@ tags: Alta Cocina, Gastronomía, Pollo, Recetas
 
 <br>
 <img class="image image--xl" src="https://i.ytimg.com/vi/ZAgNqxBfDsU/maxresdefault.jpg"/>
+![Alt text](https://i.ytimg.com/vi/ZAgNqxBfDsU/maxresdefault.jpg "a title")
 <br>
 El Cordon Bleu es una preparación clásica de la gastronomía francesa que combina la textura crocante de un empanizado bien elaborado con un relleno jugoso de jamón y queso fundido. Esta receta, ideal para la alta cocina, requiere precisión en los cortes, técnicas adecuadas de empanizado y una correcta ejecución de la cocción para lograr un plato impecable.
 

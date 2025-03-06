@@ -14,7 +14,7 @@ Antes de cortar cualquier ingrediente fresco, es fundamental lavarlo y desinfect
 - **Mirepoix**: Cubos de aproximadamente 1.5 cm de lado, utilizados como base en salsas y caldos.
 <img class="image image--lg" src="https://www.lafallera.es/wp-content/uploads/2024/04/shutterstock_1893433816.jpg"/>
 - **Brunoise**: Dados pequeños (3 mm x 3 mm) empleados en rellenos, salsas y sopas.
-<img class="image image--lg" src="https://www.expomaquinaria.es/wiki/wp-content/uploads/2016/05/brunoise.jpg"/>
+<img class="image image--lg" src="https://www.cuina.cat/uploads/s1/25/10/02/brunoiseweb-32860_42_645x400.jpg"/>
 - **Juliana**: Bastones delgados (3 mm de grosor por 5 cm de largo), común en ensaladas y guarniciones.
 <img class="image image--lg" src="https://www.arrozsos.es/wp-content/uploads/2024/03/shutterstock_631441214-1-1080x675.jpg"/>
 - **Jardinera**: Mezcla de verduras en cortes uniformes, como zanahoria, nabo y ejotes.

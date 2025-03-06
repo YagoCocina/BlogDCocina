@@ -72,6 +72,10 @@ Ejemplos:
 ## La Mirepoix
 
 La *mirepoix* es una preparación creada en el siglo XVIII y se usa para enriquecer fondos y cocciones de carnes y pescados. Existen tres tipos:
+<br>
+
+<img class="image image--lg" src="https://www.webstaurantstore.com/uploads/blog/2022/2/fried-vegetable-filling-of-onions-carrots-and-celery.jpg"/>
+
 
 - **Simple**: zanahoria, apio, cebolla, ajo y puerro.
 - **Grasa o completa**: incluye tocino o jamón.

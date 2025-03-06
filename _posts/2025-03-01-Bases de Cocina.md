@@ -1,6 +1,6 @@
 ---
 title: Bases De Cocina
-tags: Bases
+tags: Bases, Cortes
 ---
 
 ## Importancia de la Técnica en la Cocina
@@ -12,6 +12,7 @@ Antes de cortar cualquier ingrediente fresco, es fundamental lavarlo y desinfect
 ### **Técnicas de Corte**
 
 - **Mirepoix**: Cubos de aproximadamente 1.5 cm de lado, utilizados como base en salsas y caldos.
+<img class="image image--md" src="https://www.lafallera.es/wp-content/uploads/2024/04/shutterstock_1893433816.jpg"/>
 - **Brunoise**: Dados pequeños (3 mm x 3 mm) empleados en rellenos, salsas y sopas.
 - **Juliana**: Bastones delgados (3 mm de grosor por 5 cm de largo), común en ensaladas y guarniciones.
 - **Jardinera**: Mezcla de verduras en cortes uniformes, como zanahoria, nabo y ejotes.

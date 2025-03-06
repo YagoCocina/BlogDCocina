@@ -1,6 +1,6 @@
 ---
 title: "Fondos y Salsas"
-layout: "post"
+tags: Cocina, Salsas, Fondos
 ---
 
 # Fondos y Salsas

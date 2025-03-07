@@ -25,7 +25,7 @@ El Cordon Bleu es una preparación clásica de la gastronomía francesa que comb
 - 1 cucharadita de sal fina
 - 1/2 cucharadita de pimienta negra recién molida
 - 1/2 cucharadita de ajo en polvo (opcional)
-- 1/2 cucharadita de pimentón de La Vera (opcional)
+- 1/2 cucharadita de pimentón (opcional)
 - Aceite vegetal de alto punto de humo para fritura profunda
 
 ### **Para la Salsa Bechamel Enriquecida:**

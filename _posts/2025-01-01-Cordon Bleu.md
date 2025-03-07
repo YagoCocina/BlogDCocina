@@ -44,7 +44,7 @@ El Cordon Bleu es una preparación clásica de la gastronomía francesa que comb
 ### **Paso 1: Preparación del Pollo**
 1. Realizar un corte **en mariposa** sobre cada pechuga de pollo para obtener un filete uniforme.
 2. Utilizar un mazo de cocina para **aplanar** las piezas, protegiéndolas con papel film para evitar la ruptura de las fibras.
-3. Sazonar con sal, pimienta, ajo en polvo y pimentón de La Vera.
+3. Sazonar con sal, pimienta, ajo en polvo y pimentón.
 
 ### **Paso 2: Relleno y Formado**
 1. Colocar una rebanada de jamón y una de queso sobre cada filete de pollo.

@@ -1,6 +1,6 @@
 ---
 title: Receta de Crispetas de Pollo con Miel Mostaza
-tags: Alta Cocina, Gastronomía, Pollo, Aperitivos
+tags: AltaCocina, Gastronomía, Pollo, Aperitivos
 ---
 
 ## **Crispetas de Pollo con Miel Mostaza: Innovación y Textura en Alta Cocina**

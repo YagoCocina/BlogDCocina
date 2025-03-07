@@ -1,6 +1,6 @@
 ---
 title: Receta de Cordon Bleu con Puré de Papas Robuchon
-tags: Alta Cocina, Gastronomía, Pollo, Guarniciones
+tags: AltaCocina, Gastronomía, Pollo, Guarniciones
 ---
 
 ## **Cordon Bleu y Puré Robuchon: Técnica y Sofisticación en Alta Cocina**

@@ -4,6 +4,10 @@ tags: Alta Cocina, Gastronomía, Pollo, Aperitivos
 ---
 
 ## **Crispetas de Pollo con Miel Mostaza: Innovación y Textura en Alta Cocina**
+<br>
+![Alt text](https://hips.hearstapps.com/hmg-prod/images/popcorn-chicken-001-preview-64b71899b52b3.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:* "a title")
+<br>
+
 
 Las crispetas de pollo son una versión sofisticada y crujiente de los bocados de pollo tradicionales. En esta receta, se emplea una técnica de rebozado con tempura para lograr una textura aireada y crujiente, acompañada de una salsa de miel mostaza equilibrada con notas ácidas y especiadas.
 

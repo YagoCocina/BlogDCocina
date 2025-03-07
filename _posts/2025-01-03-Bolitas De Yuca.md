@@ -4,6 +4,10 @@ tags: Alta Cocina, Gastronomía, Yuca, Guarniciones
 ---
 
 ## **Bollitas de Yuca Rellenas de Carne y Queso con Chimichurri**
+<br>
+![Alt text](https://yayaya.com.ec/wp-content/uploads/2021/10/bunuelos_yuca_rellenos.jpg "a title")
+<br>
+
 
 Las bollitas de yuca rellenas son una deliciosa combinación de texturas y sabores que resaltan la suavidad de la yuca con un relleno jugoso de carne molida y queso derretido. Para elevar esta preparación a un nivel de alta cocina, las acompañaremos con un chimichurri casero que aportará frescura y acidez al plato.
 

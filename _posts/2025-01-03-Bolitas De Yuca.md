@@ -5,7 +5,7 @@ tags: Alta Cocina, Gastronomía, Yuca, Guarniciones
 
 ## **Bollitas de Yuca Rellenas de Carne y Queso con Chimichurri**
 <br>
-![Alt text](https://yayaya.com.ec/wp-content/uploads/2021/10/bunuelos_yuca_rellenos.jpg "a title")
+![Alt text](https://brookfieldpr.com/uploaded-files/recipes/j44BhqRJOYdd13fPG7JnqZ3cE2dHSo8hXhrQYaLm.png "a title")
 <br>
 
 

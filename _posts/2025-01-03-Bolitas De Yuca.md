@@ -1,6 +1,6 @@
 ---
 title: Bollitas de Yuca Rellenas de Carne y Queso con Chimichurri
-tags: Alta Cocina, Gastronomía, Yuca, Guarniciones
+tags: AltaCocina, Gastronomía, Yuca, Guarniciones
 ---
 
 ## **Bollitas de Yuca Rellenas de Carne y Queso con Chimichurri**
